@@ -1,0 +1,9 @@
+step1:start
+step2:declare the variables count
+step3:assigning the value 1 into count (count=10)
+step4:print count
+step5:decrement the count value by 1(count=count-1) then go to step 6
+step6:then check the condition count is greater than or equal to 1(count>=1) goto step7
+step7:if the condition is true gotostep 8 otherwise if condition is false goto step9 
+step8:print count
+step9:stop

@@ -1,0 +1,8 @@
+step1:start
+step2:declare the variable ch
+step3:read the value ch
+step4:if (ch=a or ch=e or ch=i or ch=o or ch=u)
+step5:then print the given charater is vowel otherwise goto step 6
+step6:print the given character is consonant
+step7:print result
+step8:stop

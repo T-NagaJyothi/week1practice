@@ -1,0 +1,7 @@
+step1:start
+step2:declare the variables age
+step3:read the values age
+step4:if the age is more than or equal to 18 then print you are eligible to vote otherwise goto step5
+step5:print you are not eligible to vote
+step6:print result
+step7:stop

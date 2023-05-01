@@ -1,0 +1,8 @@
+step1:start
+step2:declare the variable email and password
+step3:read the values  email and password
+step4:login with  facebook account by entering email and password
+step5:if email and password is correct  print login successfully otherwise goto step6
+step6:print username or password wrong please check it once
+step7:print result
+step8:stop

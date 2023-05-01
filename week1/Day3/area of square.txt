@@ -1,0 +1,6 @@
+step1:start
+step2:declare the variable side,area
+step3:read the value side
+step4:area of square area=side*side
+step5:print area
+step6:stop

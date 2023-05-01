@@ -1,0 +1,9 @@
+step1:start
+step2:declare the variables num1,num2,num3
+step3:read the values num1,num2,num3
+step4:if num1 is greaterthan num2 AND num1 is also greater than num3 then goto step5 otherwise goto step6
+step5:print num1 is greater
+step6:otherwise num2 is greater than num3 then print num2 is greater
+step7:otherwise print num3 is greater
+step8:print result
+step9:stop

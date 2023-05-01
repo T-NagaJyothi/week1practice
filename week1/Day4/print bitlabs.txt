@@ -1,0 +1,7 @@
+step1:start
+step2:declare the variables count,num
+step3:read the values count and num initialise the count by 1(count=1)
+step4:if count is greater than or equal to num goto step5 otherwise goto step7
+step5:print "bitlabs" goto step step6
+step6:increment count=count+1
+step7:stop

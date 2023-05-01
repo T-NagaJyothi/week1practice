@@ -1,0 +1,12 @@
+step1:start
+step2:declare the variable telugu,english,maths,science,social,total,percentage
+step3:read the values telugu,english,maths,science,social
+step4:total=telugu+english+maths+science+social
+step5:percentage=(total/500)*100
+step6:if percentage is greater than or equal to 90 then print gradeA otherwise goto step7
+step7:percentage is greater than or equal to 80 then print gradeB otherwise goto step8
+step8:percentage is greater than or equal to 70 then print gradeC otherwise goto step9
+step9:percentage is greater than or equal to 40 then print gradeD otherwise goto step10
+step10:print gradeE otherwise goto step 11
+step11:print fail
+step12:stop

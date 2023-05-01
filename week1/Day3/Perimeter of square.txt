@@ -1,0 +1,6 @@
+step1:start
+step2:declare the variable side,perimeter
+step3:read the values side
+step4:perimeter of square perimater=4*side
+step5:print perimeter
+step6:stop

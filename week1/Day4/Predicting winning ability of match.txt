@@ -1,0 +1,9 @@
+step1:start
+step2:declare the variables runningRate,batsman past performance,team1,team2,weather condition,pitch condition
+step3:read the values runnigRate,batsman past performance,team1,team2,weather condition,pitch condition
+step4:two teams team1 and team2 are playing team1 is batting ,team2 is bowling goto step5
+step5:we have to predict that which is going to be win goto step6
+step6:Based on past performance of opposite team2 and the pitch condition is favourble to batsman,batsman performance in past match is high goto step7
+step7:based on weather condition is also support to run the match further going on ,runrate is good goto step8
+step8:already team1 scores 50 within 15 mins based on this team1 is going to be win
+step9:stop 

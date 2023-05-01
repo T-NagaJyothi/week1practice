@@ -1,0 +1,7 @@
+step 1:Start
+step 2:Inserting the card
+step 3:Selecting the transaction type
+step 4:entering the amount
+step 5:entering the pin
+step 6:finally amount will be withdrawn
+step 7:stop

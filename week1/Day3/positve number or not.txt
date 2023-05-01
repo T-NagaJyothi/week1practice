@@ -1,0 +1,8 @@
+step1:start
+step2:declare the variable num
+step3:read the value num
+step4:if num is greater than or equal to zero goto step 5 otherwise goto step6
+step5:print num is positive
+step6:otherwise print num is negative
+step7:print result
+step8:stop

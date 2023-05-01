@@ -1,0 +1,7 @@
+step1:start
+step2:declare the variable telugu,english,maths,science,social,total,percentage
+step3:read the values telugu,english,maths,science,social
+step4:total=telugu+english+maths+science+social
+step5:percentage=(total/500)*100
+step6:print percentage
+step7:stop

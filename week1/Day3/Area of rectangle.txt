@@ -1,0 +1,6 @@
+step1:start
+step2:Declare the variables length,breadth,area
+step3:Read the values length and breadth
+step4:area of the rectangle area=length*breadth
+step5:diplay area
+step6:stop

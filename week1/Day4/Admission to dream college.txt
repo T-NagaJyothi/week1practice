@@ -1,0 +1,7 @@
+step1:start
+step2:declare the variable 
+step3:read the academic percentage
+step4:if the student have more than or equal to 75 he/she got admission otherwise goto step5 
+step5:otherwise he/she can't get admission
+step6:print result
+step7:stop

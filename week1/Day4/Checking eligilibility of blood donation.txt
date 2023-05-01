@@ -1,0 +1,8 @@
+step1:start
+step2:declare the variables blood percentage,age,past donation details,health condition,good sleep,
+step3:read the values blood percentage,age,health condition,good sleep,alchohal
+step4:if the person wants to donate the blood he/she will satisfies the condition of step 5
+step5:the doner will have proper good health,bloodrate,maintain good sleep,age will be greater than 21,dont take any alchohal before donation of blood
+step6:if all the above conditions are statisfies then only he/she eligible to blood donation otherwise goto step7
+step7:you are not eligible to blood donation
+step8:stop
